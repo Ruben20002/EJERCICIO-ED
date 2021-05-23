@@ -1,0 +1,25 @@
+body{color:blue;
+font-family: sans-serif;
+text-align: center;
+padding-left: 30px}
+
+.boton{background-color: blue;
+border-style:solid;
+border-bottom-color:darkgrey;
+margin-left: 90px;
+margin-right:50px;
+align-content: center;
+color: white;}
+#rec1, #rec2, #rec3{border-color: blue;}
+
+.letra{font-weight: 600;
+text-align:center;}
+
+.verde{margin-left: 138;}
+.azul{margin-left: 126;}
+
+#rec1{width: 228px; height: 20px}
+#rec2{width: 228px; height: 20px}
+#rec3{width: 228px; height: 140px}
+#ch1, #ch2, #ch3{background-color: darkgray}
+div label{float: auto;}
